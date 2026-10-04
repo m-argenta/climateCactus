@@ -1,10 +1,10 @@
 ---
-date: 2026-10-04
-title:
+date: 2026-09-25
+title: ontología del metasystem design
 aliases:
 description:
 image:
-lang:
+lang: ES
 tags:
 cssclasses:
 enabletoc: false
@@ -14,4 +14,3 @@ stealth:
 draft: false
 ---
 
-No hay contenido realmente.

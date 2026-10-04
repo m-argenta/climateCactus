@@ -28,7 +28,7 @@ configuration:
         dark: "#3b1e42"
         secondary: "#67763b"
         tertiary: "#498580"
-        highlight: rgba(103, 118, 59, 0.15)
+        highlight: rgba(103, 118, 59, 0)
         textHighlight: rgba(166, 114, 255, 0.15)
       darkMode:
         light: "#161618"
@@ -168,22 +168,15 @@ plugins:
     layout:
       position: afterBody
       priority: 30
-      group: myNav
-      groupOptions:
-        priority: 30
-        grow: true
+
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
-      title: Novedades
-      limit: 4
+      title: novedades
+      limit: 5
     layout:
         position: afterBody
         priority: 40
-        group: myNav
-        groupOptions:
-          priority: 40
-          grow: false
 
   - source: "@quartz-community/search"
     enabled: false

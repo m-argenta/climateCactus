@@ -1,5 +1,5 @@
 ---
-date:
+date: 2026-09-16
 title:
 aliases:
 description:
@@ -13,5 +13,4 @@ unlisted:
 stealth:
 draft: false
 ---
-
-Comes after [[Hello]].
+Dualshock Controller

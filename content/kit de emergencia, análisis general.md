@@ -1,6 +1,6 @@
 ---
-date: 2026-10-04
-title: Segunda página
+date: 2026-09-23
+title: kit de emergencia, análisis general
 aliases:
 description:
 image:
@@ -14,4 +14,3 @@ stealth:
 draft: false
 ---
 
-Contenidos que llevan a [[Hello]].

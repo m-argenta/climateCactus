@@ -13,26 +13,26 @@
 .search-button {			display: inline;
 							width: 100%; 						}
 
-.graph {					width: flex;
-							margin-top: 15px;
+.graph-container {			display: box;
+							width: flex;
+							flex: 2;
+							margin-top: 10px;
 							margin-bottom: 15px;				}
+.graph {					display: box;
+							width: flex;
+}
 
 .graph h3 {					display: none !important; 			}
 
-.myNav {					display: flex;
-							align-content: margin-top;
-							align-items: margin-top;
-							width: 100%;
-							height: 100%;
-							padding: 0; 
-							margin: 0;  						}
 
-.recent-notes {				margin-left: 10px;
-							width: 200px;						}
+.recent-notes {				margin-left: 0px;
+							width: flex;
+							max-width: 100%;
+							flex: 2;							}
 
 .recent-notes h3 {			font-size: 1.3em;
-							line-height: 1em;
-							margin-top: 30px;
+							line-height: 1.6em;
+							margin-top: 20px;
 							margin-bottom: 10px; 				}
 
 .recent-notes ul {			padding: 0px;
@@ -41,26 +41,30 @@
 .recent-notes ul li {		margin: 0px;
 							padding: 0px;						}
 
-.recent-notes ul li h3 {	font-size: 1.15em;
+.recent-notes ul li h3 {	font-size: 1em;
 							line-height: 1em;
 							padding: 0;
 							margin: 0; 							}
 
 .recent-notes ul li p * {	font-size: 0.8em;
 							font-weight: bold;
-							line-height: 0.7em;
+							line-height: 0.6em;
 							color: #67763b;
-							margin: 0;
+							margin-bottom: 0;
 							margin-top: -4px;
 							padding: 0;							}
 
-hr { 						margin-bottom: -20;
+hr { 						margin-bottom: 10px;
 							padding: 0; 						}
 
 footer {
 							margin-top: 15px;
 							margin-bottom: 15px;
 							padding: 0;							}
+footer * {					font-size: 0.95em; 
+							color: #3b1e42;
+							opacity: 100%; 						}
+footer *:hover {			color: #a672ff;						}
 
 footer p {					display: none; 						}
 
