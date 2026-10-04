@@ -1,3 +1,68 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+#quartz-body > div.center > div.page-header > header * { font-size: 1.5em; }
+
+#quartz-root.page {
+	padding: 20px;
+}
+
+
+.content-meta {				font-size: 0.9em;
+							opacity: 80%; 						}
+
+.search-button {			display: inline;
+							width: 100%; 						}
+
+.graph {					width: flex;
+							margin-top: 15px;
+							margin-bottom: 15px;				}
+
+.graph h3 {					display: none !important; 			}
+
+.myNav {					display: flex;
+							align-content: margin-top;
+							align-items: margin-top;
+							width: 100%;
+							height: 100%;
+							padding: 0; 
+							margin: 0;  						}
+
+.recent-notes {				margin-left: 10px;
+							width: 200px;						}
+
+.recent-notes h3 {			font-size: 1.3em;
+							line-height: 1em;
+							margin-top: 30px;
+							margin-bottom: 10px; 				}
+
+.recent-notes ul {			padding: 0px;
+							margin: 0px;						}
+
+.recent-notes ul li {		margin: 0px;
+							padding: 0px;						}
+
+.recent-notes ul li h3 {	font-size: 1.15em;
+							line-height: 1em;
+							padding: 0;
+							margin: 0; 							}
+
+.recent-notes ul li p * {	font-size: 0.8em;
+							font-weight: bold;
+							line-height: 0.7em;
+							color: #67763b;
+							margin: 0;
+							margin-top: -4px;
+							padding: 0;							}
+
+hr { 						margin-bottom: -20;
+							padding: 0; 						}
+
+footer {
+							margin-top: 15px;
+							margin-bottom: 15px;
+							padding: 0;							}
+
+footer p {					display: none; 						}
+
+body:has(article.homeStyle) .content-meta { display: none; }
+body:has(article.homeStyle) h1.article-title { display: none; }

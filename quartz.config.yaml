@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: climateCactus
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-ES
   baseUrl: m-argenta.github.io/climateCactus
   ignorePatterns:
     - private
@@ -16,20 +16,20 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: "Iosevka Charon"
+      body: "Atkinson Hyperlegible Next"
+      code: "Sometype Mono"
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f6f5f2"
+        lightgray: "#96aba9"
+        gray: "#6b8478"
+        darkgray: "#3a514d"
+        dark: "#3b1e42"
+        secondary: "#67763b"
+        tertiary: "#498580"
+        highlight: rgba(103, 118, 59, 0.15)
+        textHighlight: rgba(166, 114, 255, 0.15)
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -109,9 +109,9 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -128,7 +128,7 @@ plugins:
     options:
       iterations: 600000
       passwordField: password
-      unlistWhenEncrypted: false
+      unlistWhenEncrypted: true
       outputPath: static/encryptedContentIndex.json
   - source: "@quartz-community/stacked-pages"
     enabled: false
@@ -158,27 +158,46 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
+
   - source: "@quartz-community/graph"
     enabled: true
     layout:
-      position: right
-      priority: 10
-  - source: "@quartz-community/search"
-    enabled: true
-    layout:
-      position: left
-      priority: 20
-      group: toolbar
+      position: afterBody
+      priority: 30
+      group: myNav
       groupOptions:
+        priority: 30
         grow: true
-  - source: "@quartz-community/backlinks"
+  - source: "@quartz-community/recent-notes"
     enabled: true
+    options:
+      title: Novedades
+      limit: 4
     layout:
-      position: right
+        position: afterBody
+        priority: 40
+        group: myNav
+        groupOptions:
+          priority: 40
+          grow: false
+
+  - source: "@quartz-community/search"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 80
+      group: bottomNav
+      groupOptions:
+        grow: false
+
+  - source: "@quartz-community/backlinks"
+    enabled: false
+    layout:
+      position: afterBody
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
@@ -198,22 +217,22 @@ plugins:
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 10
   - source: "@quartz-community/darkmode"
-    enabled: true
+    enabled: false
     layout:
-      position: left
+      position: header
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -230,13 +249,12 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        María Argenta 2026: https://margenta.art
     layout:
       position: footer
-      priority: 50
-  - source: "@quartz-community/recent-notes"
-    enabled: false
+      priority: 30
+      group: bottomNav
+
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -258,12 +276,12 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
@@ -273,12 +291,18 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+
 layout:
   groups:
     toolbar:
       priority: 35
       direction: row
       gap: 0.5rem
+    myNav:
+      priority: 30
+      direction: row
+      gap: 0.5rem
+
   byPageType:
     "404":
       positions:
