@@ -1,7 +1,6 @@
 .DS_Store
 .gitignore
 node_modules
-public
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -13,4 +12,3 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 content/.obsidian/
-content/–gitignore/
