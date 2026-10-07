@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: m-argenta.github.io/climateCactus
+  baseUrl: https://climateCactus.margenta.art
   ignorePatterns:
     - private
     - templates
