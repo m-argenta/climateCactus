@@ -15,7 +15,7 @@ stealth:
 draft: false
 ---
 
-[[metasystem]] / [[bitácora]] /  [[gastos]] / [[proveedores]] 
+[[msdesign]] / [[bitácora]] /  [[gastos]] / [[proveedores]] 
 
 climateCactus es un estudio de diseño especializado en usar el pensamiento sistémico para dar respuesta problemas derivados de la crisis climática. actualmente se dedica al desarrollo de prototipos con fines especulativos.
 
