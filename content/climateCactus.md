@@ -18,6 +18,4 @@ Surge climateCactus.
 - Creación de página web para comunicaciones del proyecto.
 - Primeros bocetos del logo, paleta de color.
 
-El cactus representa bien la idea de resiliencia ante el cambio climático. Es una figura simple, fácil de interpretar y poco críptica.
-
-
+El cactus es una figura simple, fácil de interpretar, que representa bien la idea de **resiliencia ante el cambio climático**. 
