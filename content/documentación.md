@@ -1,6 +1,6 @@
 ---
-date: 2019-09-12
-title: identidad de climateCactus
+date: 2026-09-12
+title: documentación y back end
 aliases:
 description:
 image:
@@ -13,4 +13,4 @@ unlisted:
 stealth:
 draft: false
 ---
-
+Adopción del sistema MSD y organización. 

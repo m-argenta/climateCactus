@@ -15,8 +15,8 @@ draft: false
 ---
 
 **2026-09-12** 
-[[documentación y back end]] 
-[[identidad de climateCactus]] 
+[[documentación]] 
+[[climateCactus]] 
 
 **2026-09-15** 
 [[economía circular, sostenibilidad y diseño]] 
