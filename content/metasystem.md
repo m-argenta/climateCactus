@@ -1,7 +1,7 @@
 ---
 date: 2026-09-16
 title: metasystem
-aliases: msd, metasystem design, 
+aliases:
 description:
 image:
 lang: ES
