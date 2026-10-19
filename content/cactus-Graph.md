@@ -14,7 +14,7 @@ stealth:
 draft: false
 ---
 
-Haz click [aquí](https://climatecactus.margenta.art/static/cactus-graph) para verlo en pantalla completa. 
+
 
 <div class="nodeGraph">
 	<iframe
