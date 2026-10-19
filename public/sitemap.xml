@@ -1,73 +1,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://https:/climateCactus.margenta.art/about</loc>
-    <lastmod>2026-09-14T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/anthropocene,-the-human-epoch</loc>
-    <lastmod>2026-09-18T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/antropoceno,-l%C3%ADmites-planetarios-y-cambio-clim%C3%A1tico</loc>
-    <lastmod>2026-09-21T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/bit%C3%A1cora</loc>
-    <lastmod>2026-09-12T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/climatecactus</loc>
-    <lastmod>2019-09-11T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/documentaci%C3%B3n</loc>
-    <lastmod>2026-09-11T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/escenarios-2050</loc>
-    <lastmod>2026-09-30T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/gastos</loc>
-    <lastmod>2026-09-13T22:00:00.000Z</lastmod>
+    <loc>https://https:/climateCactus.margenta.art/cactus-graph</loc>
+    <lastmod>2026-10-18T22:00:00.000Z</lastmod>
   </url><url>
     <loc>https://https:/climateCactus.margenta.art/</loc>
     <lastmod>2026-09-11T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/kit-de-emergencia,-an%C3%A1lisis-general</loc>
-    <lastmod>2026-09-22T22:00:00.000Z</lastmod>
+    <loc>https://https:/climateCactus.margenta.art/pages/about</loc>
+    <lastmod>2026-09-14T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/kit-de-emergencia,-ciclo-de-vida-del-sistema-dise%C3%B1ado</loc>
-    <lastmod>2026-09-28T22:00:00.000Z</lastmod>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/bit%C3%A1cora</loc>
+    <lastmod>2026-09-12T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/kit-de-emergencia,-dimensiones-del-bienestar</loc>
-    <lastmod>2026-09-29T22:00:00.000Z</lastmod>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/climatecactus</loc>
+    <lastmod>2019-09-11T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/kit-de-emergencia,-listado-de-componentes</loc>
-    <lastmod>2026-09-22T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/mariposas-negras</loc>
-    <lastmod>2026-09-25T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/msdesign</loc>
-    <lastmod>2026-09-15T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/ontolog%C3%ADa-del-metasystem-design</loc>
-    <lastmod>2026-09-24T22:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://https:/climateCactus.margenta.art/proveedores</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/gastos</loc>
     <lastmod>2026-09-13T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/taller-design-for-dissasembly</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/metasystem</loc>
     <lastmod>2026-09-15T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/econom%C3%ADa-circular</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/proveedores</loc>
+    <lastmod>2026-09-13T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdesarrollados/antropoceno,-l%C3%ADmites-planetarios-y-cambio-clim%C3%A1tico</loc>
+    <lastmod>2026-09-21T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdesarrollados/ontolog%C3%ADa-del-metasystem-design</loc>
+    <lastmod>2026-09-24T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/kit-de-emergencia,-an%C3%A1lisis-general</loc>
+    <lastmod>2026-09-22T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/kit-de-emergencia,-ciclo-de-vida-del-sistema-dise%C3%B1ado</loc>
+    <lastmod>2026-09-28T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/kit-de-emergencia,-dimensiones-del-bienestar</loc>
+    <lastmod>2026-09-29T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/kit-de-emergencia,-listado-de-componentes</loc>
+    <lastmod>2026-09-22T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/taller-design-for-dissasembly</loc>
+    <lastmod>2026-09-15T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/updates/documentaci%C3%B3n</loc>
+    <lastmod>2026-09-11T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/cambioclim%C3%A1tico/anthropocene,-the-human-epoch</loc>
+    <lastmod>2026-09-18T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/cambioclim%C3%A1tico/econom%C3%ADa-circular</loc>
     <lastmod>2026-09-14T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/dise%C3%B1ar-productos-para-su-reparaci%C3%B3n-y-actualizaci%C3%B3n</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/cambioclim%C3%A1tico/escenarios-2050</loc>
+    <lastmod>2026-09-30T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/cambioclim%C3%A1tico/mariposas-negras</loc>
+    <lastmod>2026-09-25T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/dise%C3%B1osostenible/dise%C3%B1ar-para-el-desmontaje-y-el-reciclaje</loc>
     <lastmod>2026-09-14T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/durabilidad,-%C2%BFpor-qu%C3%A9-es-importante-dise%C3%B1ar-productos-resistentes</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/dise%C3%B1osostenible/dise%C3%B1ar-productos-para-su-reparaci%C3%B3n-y-actualizaci%C3%B3n</loc>
     <lastmod>2026-09-14T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/dise%C3%B1ar-para-el-desmontaje-y-el-reciclaje</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/dise%C3%B1osostenible/dise%C3%B1o,-sostenibilidad-y-sistemas</loc>
     <lastmod>2026-09-14T22:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://https:/climateCactus.margenta.art/dise%C3%B1o,-sostenibilidad-y-sistemas</loc>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/dise%C3%B1osostenible/durabilidad,-%C2%BFpor-qu%C3%A9-es-importante-dise%C3%B1ar-productos-resistentes</loc>
     <lastmod>2026-09-14T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/documentos/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdesarrollados/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/proyectosdocumentados/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/updates/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/cambioclim%C3%A1tico/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
+  </url><url>
+    <loc>https://https:/climateCactus.margenta.art/pages/comentarios/dise%C3%B1osostenible/</loc>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
   </url><url>
     <loc>https://https:/climateCactus.margenta.art/tags/</loc>
-    <lastmod>2026-10-07T09:24:21.819Z</lastmod>
+    <lastmod>2026-10-19T20:10:30.933Z</lastmod>
   </url></urlset>

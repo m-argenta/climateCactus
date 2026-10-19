@@ -68,5 +68,17 @@ footer *:hover {			color: #a672ff;						}
 
 footer p {					display: none; 						}
 
+.niceButton {				display: block;
+							width: fit-content;
+							padding: 6px 12px 6px 12px;
+							margin: auto;
+							margin-top:15px;
+							color: #f6f5f2;
+							align: right;
+							border-radius:7px;
+							background: #2f2631;			  	}
+.niceButton:hover {			background: #7d427b;
+							transition: 0.3s;					}
+
 body:has(article.homeStyle) .content-meta { display: none; }
 body:has(article.homeStyle) h1.article-title { display: none; }
