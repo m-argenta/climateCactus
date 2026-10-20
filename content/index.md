@@ -15,7 +15,7 @@ stealth:
 draft: false
 ---
 
-<a href="/static/cactus-graph/index.html" data-router-ignore>mapa de sistemas</a> / [[bitácora]] /  [[gastos]] / [[proveedores]] 
+<a href="/static/cactus-graph/index.html" data-router-ignore>gráfico</a> / [[bitácora]]
 
 climateCactus es un estudio de diseño especializado en usar el pensamiento sistémico para dar respuesta problemas derivados de la crisis climática.
 

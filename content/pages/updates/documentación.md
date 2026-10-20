@@ -14,3 +14,8 @@ stealth:
 draft: false
 ---
 Adopción del sistema MSD y organización. 
+- [[metasystem]]
+- [[bitácora]]
+- [[proveedores]]
+- [[gastos]]
+

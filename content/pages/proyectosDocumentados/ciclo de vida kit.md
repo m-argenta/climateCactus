@@ -1,7 +1,8 @@
 ---
 date: 2026-09-29
-title: kit de emergencia, ciclo de vida del sistema diseñado
+title: ciclo de vida de un kit de emergencia
 aliases:
+  - ciclo de vida
 description:
 image:
 lang: ES

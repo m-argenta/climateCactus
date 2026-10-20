@@ -18,4 +18,4 @@ el [metasystem design](https://metasystemdesign.org/) es un modelo, visión y es
 
 como marco de trabajo, se trabaja en la asignatura [diseño integral](https://www.ucm.es/gradodiseno/diseno-de-producto) del grado en diseño de la [Universidad Complutense de Madrid](https://www.ucm.es/).
 
-desde [[about|climateCactus]] estudiamos la [[ontología del metasystem design]] 
+desde [[about|climateCactus]] hemos desarrollado un [[mapa de sistemas|mapa interactivo]] de los conceptos y terminología presentes.

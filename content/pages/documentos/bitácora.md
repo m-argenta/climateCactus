@@ -13,46 +13,64 @@ unlisted:
 stealth:
 draft: false
 ---
+La bitácora hace un seguimiento al detalle de todo el trabajo que hemos llevado a cabo hasta ahora.
 
-**2026-09-12** 
-[[documentación]] 
-[[climateCactus]] 
+## 2026
 
-**2026-09-15** 
-Comentarios sobre los siguientes vídeos:
+### SEP 12
+- [[documentación]] 
+- [[climateCactus]] 
+
+### SEP 15
 - [[diseño, sostenibilidad y sistemas]] 
 - [[economía circular]] 
 - [[diseñar productos para su reparación y actualización]] 
 - [[durabilidad, ¿por qué es importante diseñar productos resistentes?]] 
 - [[diseñar para el desmontaje y el reciclaje]] 
 
-**2026-09-16**
-[[taller Design For Dissasembly]] – _work in progress_
+### SEP 16
+- [[taller Design For Dissasembly]] ==missing img==
 
-**2026-09-19** 
-_[[anthropocene, the human epoch]]_ – _work in progress_
+### SEP 19
+- _[[anthropocene, the human epoch]]_ 
 
-**2026-09-22** 
-[[antropoceno, límites planetarios y cambio climático]] – _work in progress_
+### SEP 22
+- guión del podcast [[antropoceno, límites planetarios y cambio climático]] 
+- producción del podcast
 
-**2026-09-23** 
-[[kit de emergencia, análisis general]] – _work in progress_
-[[kit de emergencia, listado de componentes]] – _work in progress_
+### SEP 23
+- [[componentes kit|componentes y materiales]] de un kit de emergencias ==missing img==
 
-**2026-09-25** 
-[[ontología del metasystem design]] – _work in progress_
+### SEP 25
+- primera versión del [[mapa de sistemas]] 
 
-**2026-09-26** 
-[[mariposas negras]] 
+### SEP 26
+- breve resumen y reflexión sobre la película [[mariposas negras]]  
 
-**2026-09-30** 
-[[kit de emergencia, dimensiones del bienestar]] – _work in progress_
-[[kit de emergencia, ciclo de vida del sistema diseñado]] – _work in progress_
+### SEP 30
+- [[ciclo de vida kit|ciclo de vida]] de un kit de emergencias ==missing img==
 
-**2026-10-02** 
-[[escenarios 2050]] 
+### OCT 02
+- breve resumen y reflexión sobre el informe [[escenarios 2050]] 
 
+### OCT  06
+- avances en el [[mapa de sistemas]]
 
+### OCT 13
+- comienzo de la investigación sobre un [[evento-climático]]
+- se añaden los enlaces entre palabras al [[mapa de sistemas]]
+
+### OCT 14
+- huelga convocada por el [sindicato de estudiantes](https://sindicatodeestudiantes.net/index.php/noticias/movimiento-estudiantil/14-de-octubre-huelga-indefinida-madrid) con el fin de defender la educación pública
+
+### OCT 17
+- [[escenarios kit|escenarios de desarrollo sostenible]] para un kit de emergencias ==missing img==
+
+### OCT 18
+- investigación sobre un [[evento-climático]] ==work in progress==
+
+### OCT 20
+- versión estable y publicada del [[mapa de sistemas]] 
 
 
 

@@ -6,8 +6,23 @@
 	padding: 20px;
 }
 
+.toc {
+  .toc-header h3 {			font-size: 0.9rem;
+    						//text-transform: uppercase;
+    						letter-spacing: 0.05em;
+    						color: var(--secondary);			}
+  ul.toc-content {
+    li > a {				color: var(--secondary); // enlaces inactivos
+      						opacity: 0.45;
+      						border-left: 2px solid transparent;
+      						padding-left: 0.4rem;
+      &.in-view {           opacity: 1; // enlace activo según scrolleas
+        					color: var(--tertiary);				}} 
+    .depth-1 { 				padding-left: 0.5rem;				} // estos son para la sangría
+    .depth-2 { 				padding-left: 1rem; 				}
+    .depth-3 { 				padding-left: 1.5rem;				}}}
 
-.content-meta {				font-size: 0.9em;
+.content-meta {				font-size: 0.8em;
 							opacity: 80%; 						}
 
 .search-button {			display: inline;
@@ -19,8 +34,7 @@
 							margin-top: 10px;
 							margin-bottom: 15px;				}
 .graph {					display: box;
-							width: flex;
-}
+							width: flex;						}
 
 .graph h3 {					display: none !important; 			}
 
@@ -30,10 +44,13 @@
 							max-width: 100%;
 							flex: 2;							}
 
-.recent-notes h3 {			font-size: 1.3em;
-							line-height: 1.6em;
-							margin-top: 20px;
-							margin-bottom: 10px; 				}
+.recent-notes>ul.recent-ul>li .section>.desc>h3>a {	font-family: "Atkinson Hyperlegible Next"; }
+
+.recent-notes h3 {			
+							font-size: 1em;
+							line-height: 1em;
+							margin-top: 15px;
+							margin-bottom: 0px; 				}
 
 .recent-notes ul {			padding: 0px;
 							margin: 0px;						}
@@ -41,18 +58,15 @@
 .recent-notes ul li {		margin: 0px;
 							padding: 0px;						}
 
-.recent-notes ul li h3 {	font-size: 1em;
-							line-height: 1em;
-							padding: 0;
-							margin: 0; 							}
+.recent-notes>ul.recent-ul>li .section>.meta {}
 
-.recent-notes ul li p * {	font-size: 0.8em;
+.recent-notes ul li p * {	font-size: 0.75em;
 							font-weight: bold;
 							line-height: 0.6em;
 							color: #67763b;
-							margin-bottom: 0;
-							margin-top: -4px;
-							padding: 0;							}
+							margin-bottom: 0px;
+							margin-top: 0px;
+							padding: 0px;						}
 
 hr { 						margin-bottom: 10px;
 							padding: 0; 						}
@@ -80,7 +94,18 @@ footer p {					display: none; 						}
 .niceButton:hover {			background: #7d427b;
 							transition: 0.3s;					}
 
+ul.toc-content li > a {
+  font-size: 0.8rem;
+  line-height: 1.1;
+  display: block;
+  padding: 0.3rem 0;}
+ul.toc-content li > .depth-0 { color: #7d427b; }
+ul.toc-content li > .depth-3 { color: #267d92; }
+
+* .external-icon { display: none !important; }
 
 body:has(article.nodeGraphPage) .graph { display: none !important; }
 body:has(article.homeStyle) .content-meta { display: none; }
 body:has(article.homeStyle) h1.article-title { display: none; }
+body:has(article.epipodcast) del, del a { text-decoration: none; color: #ccc9c3; opacity: 60%; border-color: #ccc9c3; } 
+body:has(article.epipodcast) del a:hover { color: #67763b; opacity: 100%; }
