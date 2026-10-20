@@ -35,7 +35,6 @@ Infraestructuras y sistemas comprometidos
 ### Oportunidades de intervención mediante el diseño
 ### Fuentes consultadas y contrastadas
 
-estoy intentando modificar el aspecto de la tabla de contenidos de quartz for obsidian, pero no soy capaz de seleccionar correctamente el elemento que necesito. ¿puedes intentar buscarlo? una página de muestra que usa este mismo sistema (quartz 5) es https://quartz.jzhao.xyz/
 ## Síntesis
 ### Patrones y diferencias con respecto a otros eventos
 ### Personas y comunidades especialmente vulnerables
