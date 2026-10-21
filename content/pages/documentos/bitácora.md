@@ -35,7 +35,7 @@ La bitácora hace un seguimiento al detalle de todo el trabajo que hemos llevado
 - _[[anthropocene, the human epoch]]_ 
 
 ### SEP 22
-- guión del podcast [[antropoceno, límites planetarios y cambio climático]] 
+- guión del podcast [[podcast antropoceno]] 
 - producción del podcast
 
 ### SEP 23
