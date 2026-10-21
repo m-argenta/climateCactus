@@ -2,6 +2,7 @@
 date: 2026-09-22
 title: antropoceno, límites planetarios y cambio climático
 aliases:
+  - antropoceno, límites planetarios y cambio climático
 description:
 image:
 lang: ES
@@ -27,7 +28,7 @@ Su avance acelera la acidificación en los océanos, altera los ciclos hidrológ
  
 #### ~~Definición → Antropoceno~~
 
-_**Antropoceno**_ es el nombre que recibe una nueva época geológica~~, posterior al Holoceno,~~ que ha sido propuesta para dar nombre a estos cambios. 
+_**Antropoceno**_ es el nombre que recibe una nueva época geológica, ~~posterior al Holoceno,~~ que ha sido propuesta para dar nombre a estos cambios. 
 
 Esta nueva época está definida por el enorme impacto del ser humano o _anthropos_ sobre la Tierra.
 
