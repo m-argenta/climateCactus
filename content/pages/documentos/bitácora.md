@@ -89,6 +89,9 @@ La bitácora hace un seguimiento al detalle de todo el trabajo que hemos llevado
 ### OCT 20
 - versión estable y publicada del [[mapa de sistemas]] 
 
+### OCT 21
+- [[presentación]] 
+
 
 
 
