@@ -82,17 +82,21 @@ footer *:hover {			color: #a672ff;						}
 
 footer p {					display: none; 						}
 
-.niceButton {				display: block;
+.niceButton {				display: box;
 							width: fit-content;
 							padding: 6px 12px 6px 12px;
-							margin: auto;
 							margin-top:15px;
 							color: #f6f5f2;
-							align: right;
 							border-radius:7px;
 							background: #2f2631;			  	}
 .niceButton:hover {			background: #7d427b;
 							transition: 0.3s;					}
+
+.niceButtonBox {			display: flex;
+							justify-content: center;
+							gap: 1rem; 
+							flex-wrap: wrap;
+							margin: auto; 						}
 
 ul.toc-content li > a {		font-size: 0.8rem;
   							line-height: 1.1;

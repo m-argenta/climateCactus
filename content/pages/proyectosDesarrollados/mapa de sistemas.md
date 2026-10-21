@@ -40,9 +40,11 @@ draft: false
 	</iframe>
 </div>
 
-<a href="/static/cactus-graph/index.html" data-router-ignore class="niceButton">
+<div class="niceButtonBox"><a href="/static/cactus-graph/index.html" data-router-ignore class="niceButton">
 Abrir el gráfico
-</a>
+</a> <a href="/static/graph-qr/index.html" data-router-ignore class="niceButton">
+Acceder con QR
+</a> </div>
 
 
 
