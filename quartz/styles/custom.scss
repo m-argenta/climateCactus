@@ -94,15 +94,19 @@ footer p {					display: none; 						}
 .niceButton:hover {			background: #7d427b;
 							transition: 0.3s;					}
 
-ul.toc-content li > a {
-  font-size: 0.8rem;
-  line-height: 1.1;
-  display: block;
-  padding: 0.3rem 0;}
+ul.toc-content li > a {		font-size: 0.8rem;
+  							line-height: 1.1;
+  							display: block;
+  							padding: 0.3rem 0;					}
+
 ul.toc-content li > .depth-0 { color: #7d427b; }
 ul.toc-content li > .depth-3 { color: #267d92; }
 
-* .external-icon { display: none !important; }
+* .external-icon { 			display: none !important; 			}
+
+.table-container table {	font-size: 0.9rem;
+  th, td { 					padding: 0.4em 1.5em;				}
+  & > * {					line-height: 1.1rem;				}}
 
 body:has(article.nodeGraphPage) .graph { display: none !important; }
 body:has(article.homeStyle) .content-meta { display: none; }

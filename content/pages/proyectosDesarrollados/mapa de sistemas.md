@@ -77,4 +77,4 @@ Tras las versiones en Figma, he trasladado el mapa a una versión digital intera
 8. Sistemas diseñados
 9. Procesos
 
-![[2629301.png]]
+![[force-graph-color-palette.png]]
