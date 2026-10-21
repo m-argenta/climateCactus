@@ -277,7 +277,9 @@ La Generalitat Valenciana contabiliza 78 municipios oficialmente afectados, 75 d
 ### Fallos o carencias en los sistemas existentes
 
 - Fallos humanos.
-	- Coordinación entre administraciones públicas.
+- Incompetencia de las administraciones públicas.
+	- Fallos en las cadenas de comandos.
+	- Falta de prevención.
 - Fallos de infraestructura.
 	- Viviendas ubicadas en zonas inundables.
 	- Prevalencia del coche personal como principal medio de transporte.
